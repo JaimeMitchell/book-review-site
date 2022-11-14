@@ -1,0 +1,32 @@
+/* STYLE */
+
+button {
+    border-radius: 1em;
+    width: 100px;
+    padding: 10px;
+    background-color: rgb(225, 33, 36);
+    color: rgb(195, 232, 241);
+}
+
+/* MOST IMPORTANT ACTION */
+.menuDrop {
+    display: none;
+
+}
+
+.menu:hover .menuDrop {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(61, 79, 95);
+    color: aliceblue;
+    border-radius: 1em;
+}
+
+.menu:hover .menuDrop a {
+    color: aliceblue;
+    justify-content: center;
+    text-align: center;
+}
