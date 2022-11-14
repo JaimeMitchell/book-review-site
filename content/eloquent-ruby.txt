@@ -1,8 +1,4 @@
 
-#  For this page you will create
-
-Book #1 - Eloquent Ruby
-
 Author:  Russ Olsen
 E-mail:  russ@russolsen.com
 Twitter:  @russolsen
