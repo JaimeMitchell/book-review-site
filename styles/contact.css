@@ -14,8 +14,12 @@ Round the corners of the site maintainer image  */
     width: 50%;
 }
 
+button{
+    color: black;
+    background-color: rgb(167, 241, 102);
+}
 .goofy {
-    background-color: rgba(195, 238, 242, 0.243);
+    background-color: rgba(6, 74, 80, 0.474);
     border-radius: 1em;
 }
 
