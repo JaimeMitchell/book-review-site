@@ -1,0 +1,22 @@
+/* 
+eloquent-ruby.html
+Give each review a background color of light gray
+Change the line-height of the review's paragraphs to 150% */
+header{
+  background-color: red;
+  color: black;
+}
+button{background-color: black;}
+
+.reviews {
+    background-color: lightgray;
+    line-height: 150%;
+    color: black;
+    width: 100%;
+    height: 300px;
+  overflow: visible;
+}
+
+footer{
+  background-color: red;
+}

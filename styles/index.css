@@ -1,0 +1,17 @@
+/* index.html
+Make all the images the same width */
+
+header {
+    text-align: center;
+    background-color: black;
+}
+
+.images {
+    text-align: center;
+    width: 50%;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(181, 201, 222);
+}

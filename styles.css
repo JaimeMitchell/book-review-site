@@ -1,5 +1,35 @@
 /* STYLE */
+* {
+    font-family: fantasy;
+}
 
+body {
+    background-color: teal;
+}
+
+header {
+    background-color: rgb(144, 224, 224);
+    border-color: red;
+    border-width: 3px;
+    border-radius: .5em;
+    border-top: 1px solid #000;
+    border-bottom: 3px solid #000;
+    padding: 10px;
+}
+
+footer {
+
+    background-color: rgb(144, 224, 224);
+    ;
+    border-color: red;
+    border-width: 3px;
+    border-radius: .5em;
+    border-top: 1px solid #000;
+    border-bottom: 3px solid #000;
+    padding: 10px;
+}
+
+/* navigation button */
 button {
     border-radius: 1em;
     width: 100px;
@@ -8,10 +38,10 @@ button {
     color: rgb(195, 232, 241);
 }
 
-/* MOST IMPORTANT ACTION */
+
+/* MOST IMPORTANT ACTION of button above*/
 .menuDrop {
     display: none;
-
 }
 
 .menu:hover .menuDrop {
@@ -30,7 +60,6 @@ button {
     justify-content: center;
     text-align: center;
 }
-
-footer {
-    background-color: whitesmoke;
+.menu:hover .menuDrop .titles{
+    font-style: italic;
 }

@@ -1,0 +1,25 @@
+/* 
+contact.html
+Center all the text of the main content (excluding content in header and footer elements)
+Round the corners of the site maintainer image  */
+.header {
+    text-align: center;
+    background-color: rgb(245, 153, 24);
+    color: black;
+}
+
+.welcome {
+    text-align: center;
+    padding: 50px;
+    width: 50%;
+}
+
+.goofy {
+    background-color: rgba(195, 238, 242, 0.243);
+    border-radius: 1em;
+}
+
+.footer {
+    text-align: center;
+    background-color: rgb(245, 153, 24);
+}
